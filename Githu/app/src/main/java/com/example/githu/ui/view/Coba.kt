@@ -10,7 +10,7 @@ import androidx.compose.ui.tooling.preview.Preview
 fun Coba(){
 
     Column() {
-        Text("Hello")
+        Text("Gerry Sigma Abis")
         Text("World")
     }
 
